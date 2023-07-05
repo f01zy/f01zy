@@ -40,6 +40,12 @@
 
 ---
 
+### 📊 Code wars
+
+![](https://github.r2v.ch/codewars?user=f01zy)
+
+---
+
 ### 🔥 Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=f01zy&theme=dark&background=000000)](https://git.io/streak-stats)
