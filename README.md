@@ -1,7 +1,7 @@
 <div class="header" align="center">
     <img src="https://media.tenor.com/yEvzp9XBoLUAAAAd/cool-man-maybe-chamturu.gif" width="80">
     <h1>Hi there, I'm <a href="https://discord.gg/w9BHqgtDXZ" target="_blank">Ali</a></h1>
-    <h3>Fullstack senior developer</h3>
+    <h3>Fullstack developer</h3>
     <div class="bages">
         <a href="https://discord.gg/w9BHqgtDXZ">
             <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge">
