@@ -44,6 +44,12 @@
 
 ---
 
+### Leetcode
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/f01zy)
+
+---
+
 ### 📊 Code wars
 
 ![](https://github.r2v.ch/codewars?user=f01zy)
