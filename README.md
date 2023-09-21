@@ -19,7 +19,7 @@
 ### 🧑‍💻 About Me
 - I am a Full Stack web developer from Russia
 
-- my main programming languages is Python and Javascript
+- My main programming languages is Python and Javascript
 
 - I write my web applications on the React and Django
 
