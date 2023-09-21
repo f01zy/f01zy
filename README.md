@@ -17,11 +17,11 @@
 </div>
 
 ### 🧑‍💻 About Me
-- 🇷🇺 I am a Full Stack web developer from Russia
+- I am a Full Stack web developer from Russia
 
-- 🐍 my main programming languages is Python and Javascript
+- my main programming languages is Python and Javascript
 
-- 💻 I write my web applications on the React and Django
+- I write my web applications on the React and Django
 
 
 ---
