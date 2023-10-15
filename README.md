@@ -1,4 +1,4 @@
-```typescript
+```tsx
 import { FC } from 'react'
 
 const Folzy:FC = ():JSX.Element => {
