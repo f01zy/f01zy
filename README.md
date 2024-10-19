@@ -4,6 +4,8 @@
   <h3>fullstack web programmer from Russia</h3>
 </div>
 
+<img src="./metrics.plugin.calendar.svg" alt="Calendar"></img>
+
 <h2>About me</h2>
 <ul>
   <li>Full name: Aminov Ali</li>
