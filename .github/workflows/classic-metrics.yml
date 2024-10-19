@@ -1,12 +1,12 @@
 name: Classic-metrics
-     on:
-       push:
-         branches:
+on:
+     push:
+          branches:
            - main
-     jobs:
-       metrics:
-         runs-on: ubuntu-latest
-         steps:
+jobs:
+     metrics:
+          runs-on: ubuntu-latest
+          steps:
            - name: Generate classic metrics
              uses: lowlighter/metrics@latest
              with:
