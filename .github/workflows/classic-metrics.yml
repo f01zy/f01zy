@@ -1,7 +1,18 @@
-name: f01zy
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
+name: Classic-metrics
+     on:
+       push:
+         branches:
+           - main
+     jobs:
+       metrics:
+         runs-on: ubuntu-latest
+         steps:
+           - name: Generate classic metrics
+             uses: lowlighter/metrics@latest
+             with:
+               filename: metrics.classic.svg
+               token: ${{ secrets.METRICS_TOKEN }}
+               base: header, repositories
+               plugin_lines: yes
+           - name: Commit metrics
+             run: git add metrics.classic.svg && git commit -m "Update metrics" && git push
