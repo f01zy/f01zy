@@ -13,6 +13,7 @@
   <li>Region: Dagestan</li>
   <li>City: Mahachkala</li>
   <li>Experience: 2 years</li>
+  <li>Level: junior</li>
 </ul>
 
 <h3>Languages</h3>
