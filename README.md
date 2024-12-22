@@ -1,7 +1,6 @@
 <div>
   <h1>Hi there, I'm <a href="https://f01zy.pro/" target="_blank">f01zy</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h3>fullstack web programmer from Russia</h3>
 </div>
 
 <img src="./metrics.plugin.calendar.svg" alt="Calendar"></img>
