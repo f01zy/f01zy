@@ -19,7 +19,6 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_TIMEZONE: "False"
-          SECTION_NAME: "Section"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
