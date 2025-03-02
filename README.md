@@ -46,3 +46,6 @@ Other        11 mins         ██▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<h4>Spotify</h4>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4as5d3eorfvzo6wshymqelpyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
