@@ -3,6 +3,7 @@
 <p align="center">Young programmer from Russia 🇷🇺</p>
 
 <p>I am a programmer from Russia. I worked on websites for two years, and am currently studying hardware.</p>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4as5d3eorfvzo6wshymqelpyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
 
 <h3>A little about me</h3>
 <h4>Programming languages ​​I work in:</h4>
@@ -55,6 +56,3 @@ Neovim                   2 hrs               ███████████�
 
 
 <!--END_SECTION:waka-->
-
-<h4>Spotify</h4>
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4as5d3eorfvzo6wshymqelpyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></img>
