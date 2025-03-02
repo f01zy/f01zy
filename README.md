@@ -34,11 +34,6 @@
 
 <h4>Wakatime</h4>
 <!--START_SECTION:waka-->
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20thousand%20lines%20of%20code-blue)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2047%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -54,6 +49,7 @@ i3config                 10 mins             ██░░░░░░░░░�
 🔥 Editors: 
 Neovim                   2 hrs               █████████████████████████   100.00 % 
 ```
+
 
 <!--END_SECTION:waka-->
 
