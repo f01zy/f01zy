@@ -36,11 +36,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 25 February 2025 - To: 01 March 2025
+
+Total Time: 1 hr 49 mins
+
 JavaScript   52 mins         ███████████░░░░░░░░░░░░░░   43.57 %
 Bash         22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-JSON         17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
 Other        11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-i3config     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 ```
 
 <!--END_SECTION:waka-->
