@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakatime.com/api
-          REPOSITORY: YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME
+          REPOSITORY: f01zy/f01zy
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ░▒▓█
