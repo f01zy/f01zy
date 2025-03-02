@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">Young programmer from Russia 🇷🇺</p>
 
+<p>I am a programmer from Russia. I worked on websites for two years, and am currently studying hardware.</p>
+
 <h3>A little about me</h3>
 <h4>Programming languages ​​I work in:</h4>
 <div>
