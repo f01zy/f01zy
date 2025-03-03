@@ -53,6 +53,8 @@ JSON          28 mins         █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+<!--
 <h4>Leetcode</h4>
 
 ![Leetcode](https://leetcard.jacoblin.cool/f01zy?ext=heatmap)
+-->
