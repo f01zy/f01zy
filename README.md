@@ -1,7 +1,8 @@
 <div align="center">
-<h1>Hi there, I'm <a href="https://f01zy.pro/" target="_blank">f01zy</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Young+programmer+from+Russia">  
+  <img src="./avatar.jpeg" width="170px">
+  <h1>Hi there, I'm <a href="https://f01zy.pro/" target="_blank">f01zy</a> 
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Young+programmer+from+Russia">  
 </div>
 
 <p>Hello. I am a programmer from Russia. I have two years of experience in web development. Now I have moved on to studying hardware because I am interested in how the device works at the hardware level. I am always open to new ideas and ready to collaborate on interesting projects.</p>
