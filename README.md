@@ -1,7 +1,7 @@
 <div>
   <img src="./avatar.jpeg" width="170px">
   <h1>Hi there, I'm <a href="https://f01zy.pro/" target="_blank">f01zy</a> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <img src="./hi.gif" height="32"/></h1>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Young+programmer+from+Russia">  
 </div>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### <img src="./info.gif" width="40"> A little about me...
+### <img src="./cat.gif" width="40"> A little about me...
 
 ```js
 const about = {
