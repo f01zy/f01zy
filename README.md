@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="./avatar.jpeg" width="170px">
   <h1>Hi there, I'm <a href="https://f01zy.pro/" target="_blank">f01zy</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
@@ -15,41 +15,23 @@
 
 ---
 
-<h4>A little about me</h4>
+### <img src="./info.gif" width="40"> A little about me...
 
-<h5>Programming languages ​​I work in:</h5>
+```js
+const about = {
+  pronouns: "he",
+  code: ["Javascript", "Typescript", "C++"],
+  tools: ["React", "Next.js", "Node", "Bun", "Cmake"],
+  system: ["Arch", "i3wm", "chromium"],
+  hobbies:
+          [
+            "Reading",
+            "Math"
+          ],
 
-<div>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
-</div>
-
-<h5>In my work I use these technologies:</h5>
-
-<div>
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></img>
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"></img>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></img>
-</div>
-
-<h5>My system configuration:</h5>
-<div>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></img>
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"></img>
-</div>
-
----
-
-<h4>Wakatime</h4>
+ currentProject: "Now I'm making online chess that can be played directly from the console."
+}
+```
 
 <!--START_SECTION:waka-->
 
