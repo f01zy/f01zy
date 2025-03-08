@@ -69,3 +69,7 @@ JavaScript    52 mins         ▓░░░░░░░░░░░░░░░�
 
 ![Leetcode](https://leetcard.jacoblin.cool/f01zy?ext=heatmap)
 -->
+
+---
+
+<h3 align="center">⬇️ Check my pins ⬇️</h3>
