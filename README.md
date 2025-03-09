@@ -53,5 +53,10 @@ JavaScript    52 mins         ▓░░░░░░░░░░░░░░░�
 -->
 
 ---
+### 📫 Contact with me:
+- Mail: aminovali015@icloud.com
+- [Discord](https://discordapp.com/users/858285755658666034)
+- [Telegram](https://t.me/aminov_ali)
+---
 
 <h3 align="center">⬇️ Check my pins ⬇️</h3>
