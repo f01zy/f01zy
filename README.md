@@ -32,12 +32,10 @@ const about = {
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 50 mins
-
-C++           14 hrs 46 mins  ███████████▒░░░░░░░░░░░░░   45.31 %
-TypeScript    6 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-C             1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-JavaScript    52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+C++           21 hrs 34 mins  █████████████▒░░░░░░░░░░░   53.80 %
+TypeScript    7 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
+C             1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+JavaScript    52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
