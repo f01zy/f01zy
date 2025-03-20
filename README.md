@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="./avatar.jpeg" width="170px">
   <div>
     <h1>Hi there, I'm <a href="https://f01zy.pro/" target="_blank">f01zy</a> 
