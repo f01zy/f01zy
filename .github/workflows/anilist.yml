@@ -1,0 +1,17 @@
+name: AniList readme workflow
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-anilist:
+    name: Update this repo's README with latest AniList activites
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: AniList readme workflow
+        uses: pxseu/anilist-readme@senpai
+        with:
+          user_name: f01zy
+          user_id: 7218993
