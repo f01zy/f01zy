@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
   <img src="https://github.com/f01zy.png" width="170px">
   <div>
     <h1>Hi there, I'm <a href="https://f01zy.pro/" target="_blank">f01zy</a> 
@@ -40,14 +40,16 @@ Lua            1 hr 45 mins    ▓░░░░░░░░░░░░░░░�
 
 ---
 
-# 🌸 My recent AniList activity
+<details>
+  <summary>🌸 My recent AniList activity</summary>
 
-<!-- ANILIST_ACTIVITY:start -->
+  <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046) (11:31 19 May 2025)
--   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (11:31 19 May 2025)
--   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:52 17 May 2025)
--   📺 Completed [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (13:51 17 May 2025)
--   📺 Watched episode 5 of [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (07:28 17 May 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
+  -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046) (11:31 19 May 2025)
+  -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (11:31 19 May 2025)
+  -   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:52 17 May 2025)
+  -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (13:51 17 May 2025)
+  -   📺 Watched episode 5 of [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (07:28 17 May 2025)
+  
+  <!-- ANILIST_ACTIVITY:end -->
+</details>
