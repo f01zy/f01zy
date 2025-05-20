@@ -13,6 +13,7 @@
 
 ### Wakatime
 <!--START_SECTION:waka-->
+
 ```txt
 C++            50 hrs 52 mins  ██████████████▒░░░░░░░░░░   57.75 %
 TypeScript     12 hrs 21 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
