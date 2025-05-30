@@ -46,11 +46,11 @@ Lua            1 hr 46 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [One-Punch Man Season 2](https://anilist.co/anime/97668) (10:45 30 May 2025)
+-   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (10:45 30 May 2025)
 -   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046) (11:31 19 May 2025)
 -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (11:31 19 May 2025)
 -   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:52 17 May 2025)
--   📺 Completed [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (13:51 17 May 2025)
--   📺 Watched episode 5 of [Re:ZERO -Starting Life in Another World- Season 2 Part 2](https://anilist.co/anime/119661) (07:28 17 May 2025)
 
   <!-- ANILIST_ACTIVITY:end -->
 </details>
