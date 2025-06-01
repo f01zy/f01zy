@@ -46,11 +46,11 @@ Lua            1 hr 46 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (16:39 01 June 2025)
 -   📺 Plans to watch [One Punch Man 3](https://anilist.co/anime/153800) (18:24 30 May 2025)
 -   📺 Completed [One-Punch Man Season 2](https://anilist.co/anime/97668) (18:24 30 May 2025)
 -   📺 Watched episode 6 of [One-Punch Man Season 2](https://anilist.co/anime/97668) (10:45 30 May 2025)
 -   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (10:45 30 May 2025)
--   📺 Plans to watch [Re:Zero kara Hajimeru Isekai Seikatsu 4th Season](https://anilist.co/anime/189046) (11:31 19 May 2025)
 
   <!-- ANILIST_ACTIVITY:end -->
 </details>
