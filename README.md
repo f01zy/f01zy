@@ -47,11 +47,11 @@ Other          1 hr 11 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (16:11 10 June 2025)
 -   📺 Watched episode 5 - 21 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (08:58 07 June 2025)
 -   📺 Plans to watch [One Punch Man 3](https://anilist.co/anime/153800) (18:24 30 May 2025)
 -   📺 Completed [One-Punch Man Season 2](https://anilist.co/anime/97668) (18:24 30 May 2025)
 -   📺 Watched episode 6 of [One-Punch Man Season 2](https://anilist.co/anime/97668) (10:45 30 May 2025)
--   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (10:45 30 May 2025)
 
   <!-- ANILIST_ACTIVITY:end -->
 </details>
