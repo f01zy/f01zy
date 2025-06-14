@@ -47,7 +47,7 @@ Other          1 hr 11 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 15 of [Death Note](https://anilist.co/anime/1535) (19:57 13 June 2025)
+-   📺 Watched episode 2 - 25 of [Death Note](https://anilist.co/anime/1535) (22:09 14 June 2025)
 -   📺 Completed [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (16:11 10 June 2025)
 -   📺 Watched episode 5 - 21 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (08:58 07 June 2025)
 -   📺 Plans to watch [One Punch Man 3](https://anilist.co/anime/153800) (18:24 30 May 2025)
