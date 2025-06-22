@@ -25,7 +25,7 @@ gitignore      1 hr 13 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 of [Vinland Saga](https://anilist.co/anime/101348) (09:18 22 June 2025)
+-   📺 Watched episode 8 - 18 of [Vinland Saga](https://anilist.co/anime/101348) (21:39 22 June 2025)
 -   📖 Plans to read [No Game, No Life](https://anilist.co/manga/78397) (10:57 20 June 2025)
 -   📺 Completed [No Game, No Life](https://anilist.co/anime/19815) (10:12 20 June 2025)
 -   📺 Completed [Death Note](https://anilist.co/anime/1535) (17:09 19 June 2025)
