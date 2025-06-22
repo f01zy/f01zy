@@ -25,11 +25,11 @@ gitignore      1 hr 13 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Vinland Saga](https://anilist.co/anime/101348) (09:18 22 June 2025)
 -   📖 Plans to read [No Game, No Life](https://anilist.co/manga/78397) (10:57 20 June 2025)
 -   📺 Completed [No Game, No Life](https://anilist.co/anime/19815) (10:12 20 June 2025)
 -   📺 Completed [Death Note](https://anilist.co/anime/1535) (17:09 19 June 2025)
 -   📺 Dropped 6 of [Can a Boy-Girl Friendship Survive?](https://anilist.co/anime/153554) (17:09 19 June 2025)
--   📺 Watched episode 6 of [No Game, No Life](https://anilist.co/anime/19815) (17:06 19 June 2025)
 
   <!-- ANILIST_ACTIVITY:end -->
 </details>
