@@ -25,7 +25,7 @@ gitignore      1 hr 13 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Vinland Saga Season 2](https://anilist.co/anime/136430) (16:15 23 June 2025)
+-   📺 Watched episode 2 - 10 of [Vinland Saga Season 2](https://anilist.co/anime/136430) (15:45 24 June 2025)
 -   📺 Completed [Vinland Saga](https://anilist.co/anime/101348) (15:12 23 June 2025)
 -   📺 Watched episode 8 - 18 of [Vinland Saga](https://anilist.co/anime/101348) (21:39 22 June 2025)
 -   📖 Plans to read [No Game, No Life](https://anilist.co/manga/78397) (10:57 20 June 2025)
