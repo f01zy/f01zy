@@ -25,11 +25,11 @@ conf           1 hr 19 mins    ▒░░░░░░░░░░░░░░░�
 
   <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (16:01 28 June 2025)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation Cour 2](https://anilist.co/anime/127720) (22:33 25 June 2025)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/anime/108465) (15:57 25 June 2025)
 -   📺 Watched episode 2 - 10 of [Vinland Saga Season 2](https://anilist.co/anime/136430) (15:45 24 June 2025)
 -   📺 Completed [Vinland Saga](https://anilist.co/anime/101348) (15:12 23 June 2025)
--   📺 Watched episode 8 - 18 of [Vinland Saga](https://anilist.co/anime/101348) (21:39 22 June 2025)
 
   <!-- ANILIST_ACTIVITY:end -->
 </details>
