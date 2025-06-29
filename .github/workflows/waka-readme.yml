@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          IGNORED_LANGUAGES: YAML JSON TOML INI Bash i3config sh
+          IGNORED_LANGUAGES: YAML JSON TOML INI Bash i3config sh gitignore
           TIME_RANGE: all_time
           LANG_COUNT: 7
           SHOW_TIME: true
