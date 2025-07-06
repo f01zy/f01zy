@@ -17,3 +17,4 @@ jobs:
           TIME_RANGE: all_time
           LANG_COUNT: 7
           SHOW_TIME: true
+          BLOCKS: -#
