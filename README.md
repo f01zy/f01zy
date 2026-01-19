@@ -5,4 +5,4 @@
 </div>
 
 ## AniList
-<img src="metrics.plugin.anilist.svg" alt="AniList" width="100%"/>
+<img src="metrics.plugin.anilist.svg" alt="AniList" width="48%"/>
