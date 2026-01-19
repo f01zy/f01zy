@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="metrics.classic.svg" alt="Classic" width="48%"/>
   <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" width="48%"/>
 </div>
 
