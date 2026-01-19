@@ -11,13 +11,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.classic.svg
-          base: header, repositories
-          plugin_lines: yes
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.isocalendar.fullyear.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -27,7 +20,7 @@ jobs:
           token: NOT_NEEDED
           filename: metrics.plugin.wakatime.svg
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - uses: lowlighter/metrics@latest
@@ -35,7 +28,7 @@ jobs:
           token: NOT_NEEDED
           filename: metrics.plugin.leetcode.svg
           plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved, recent
 
       - uses: lowlighter/metrics@latest
         with:
