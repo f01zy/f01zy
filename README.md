@@ -1,8 +1,3 @@
-## Statistics
-<div align="left">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Calendar" width="48%"/>
-</div>
-
 ## WakaTime and LeetCode
 <div align="left">
   <img src="metrics.plugin.wakatime.svg" alt="WakaTime" width="48%"/>
