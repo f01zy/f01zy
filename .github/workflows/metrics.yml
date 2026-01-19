@@ -12,9 +12,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          plugin_stars: yes
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_stars: no
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
 
       - uses: lowlighter/metrics@latest
         with:
