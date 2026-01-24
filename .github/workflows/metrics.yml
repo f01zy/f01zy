@@ -39,3 +39,4 @@ jobs:
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading, characters
           plugin_anilist_limit: 1
+          plugin_anilist_shuffle: false
