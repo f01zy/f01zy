@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.580863234529382 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">112</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.923036921476859 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">116</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3846</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -37,8 +37,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.201990049751244 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">44</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.365671641791044 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">45</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2010</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -46,8 +46,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.1716171617161715 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">6</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.2574257425742577 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">9</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/909</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -67,8 +67,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Toggle Light Bulbs</div>
-                            <div class="date">19 Feb 2026</div>
+                            <div class="title">N-Queens</div>
+                            <div class="date">20 Feb 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -76,8 +76,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Reverse Nodes in k-Group</div>
-                            <div class="date">19 Feb 2026</div>
+                            <div class="title">Swap Nodes in Pairs</div>
+                            <div class="date">20 Feb 2026</div>
                         </div>
                     </div>
                 </section>
