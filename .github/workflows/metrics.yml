@@ -29,9 +29,9 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: manga, characters
-          plugin_anilist_limit: 2
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 1
           plugin_anilist_shuffle: no
 
       - uses: lowlighter/metrics@latest
