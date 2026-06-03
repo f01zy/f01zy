@@ -1,6 +1,6 @@
 <h2>Activity</h2>
 <div align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" width="45%" align="center" />
+  <img src="metrics.plugin.isocalendar.halfyear.svg" width="45%" align="center" />
   <img src="metrics.plugin.wakatime.svg" width="45%" align="center" />
 </div>
 
