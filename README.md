@@ -1,6 +1,6 @@
 <h2>Activity</h2>
 <div align="center">
-  <img src="metrics.plugin.isocalendar.halfyear.svg" width="45%" align="center" />
+  <img src="metrics.plugin.isocalendar.fullyear.svg" width="45%" align="center" />
   <img src="metrics.plugin.wakatime.svg" width="45%" align="center" />
 </div>
 
@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/C-1e1e2e?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-1e1e2e?style=flat&logo=cmake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vim-1e1e2e?style=flat&logo=vim&logoColor=white"/>
-  <img src="https://wakatime.com/badge/user/e5cb2c29-bca5-4fe6-9d1b-9f6d642d0b8d/project/e918dd9f-1af4-421c-bf74-7856179ee2cd.svg" alt="wakatime">
 </p>
 
 ---
@@ -38,5 +37,4 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-1e1e2e?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/CMake-1e1e2e?style=flat&logo=cmake&logoColor=white"/>
-  <img src="https://wakatime.com/badge/user/e5cb2c29-bca5-4fe6-9d1b-9f6d642d0b8d/project/92056050-5734-4dd9-b7c9-67e9f8d58cc0.svg" alt="wakatime">
 </p>
